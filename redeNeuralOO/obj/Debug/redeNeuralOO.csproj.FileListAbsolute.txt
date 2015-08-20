@@ -1,0 +1,6 @@
+C:\Users\Murilo\Documents\Web\Projetos\redeNeural\redeNeuralOO\bin\Debug\redeNeuralOO.exe.config
+C:\Users\Murilo\Documents\Web\Projetos\redeNeural\redeNeuralOO\bin\Debug\redeNeuralOO.exe
+C:\Users\Murilo\Documents\Web\Projetos\redeNeural\redeNeuralOO\bin\Debug\redeNeuralOO.pdb
+C:\Users\Murilo\Documents\Web\Projetos\redeNeural\redeNeuralOO\obj\Debug\redeNeuralOO.csprojResolveAssemblyReference.cache
+C:\Users\Murilo\Documents\Web\Projetos\redeNeural\redeNeuralOO\obj\Debug\redeNeuralOO.exe
+C:\Users\Murilo\Documents\Web\Projetos\redeNeural\redeNeuralOO\obj\Debug\redeNeuralOO.pdb

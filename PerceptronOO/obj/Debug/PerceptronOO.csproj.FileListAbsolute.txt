@@ -1,0 +1,6 @@
+C:\Users\Murilo\Documents\Web\Projetos\redeNeural\PerceptronOO\bin\Debug\PerceptronOO.exe.config
+C:\Users\Murilo\Documents\Web\Projetos\redeNeural\PerceptronOO\obj\Debug\PerceptronOO.csprojResolveAssemblyReference.cache
+C:\Users\Murilo\Documents\Web\Projetos\redeNeural\PerceptronOO\bin\Debug\PerceptronOO.exe
+C:\Users\Murilo\Documents\Web\Projetos\redeNeural\PerceptronOO\bin\Debug\PerceptronOO.pdb
+C:\Users\Murilo\Documents\Web\Projetos\redeNeural\PerceptronOO\obj\Debug\PerceptronOO.exe
+C:\Users\Murilo\Documents\Web\Projetos\redeNeural\PerceptronOO\obj\Debug\PerceptronOO.pdb

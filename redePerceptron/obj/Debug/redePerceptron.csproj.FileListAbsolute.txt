@@ -1,0 +1,6 @@
+C:\Users\Murilo\Documents\Web\Projetos\redeNeural\redePerceptron\bin\Debug\redePerceptron.exe.config
+C:\Users\Murilo\Documents\Web\Projetos\redeNeural\redePerceptron\bin\Debug\redePerceptron.exe
+C:\Users\Murilo\Documents\Web\Projetos\redeNeural\redePerceptron\bin\Debug\redePerceptron.pdb
+C:\Users\Murilo\Documents\Web\Projetos\redeNeural\redePerceptron\obj\Debug\redePerceptron.exe
+C:\Users\Murilo\Documents\Web\Projetos\redeNeural\redePerceptron\obj\Debug\redePerceptron.pdb
+C:\Users\Murilo\Documents\Web\Projetos\redeNeural\redePerceptron\obj\Debug\redePerceptron.csprojResolveAssemblyReference.cache
